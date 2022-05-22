@@ -1,0 +1,6 @@
+module Pods_dessertReactNativeApp_dessertReactNativeAppTests {
+  umbrella header "Pods-dessertReactNativeApp-dessertReactNativeAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

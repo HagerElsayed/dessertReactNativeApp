@@ -1,0 +1,6 @@
+module Pods_dessertReactNativeApp {
+  umbrella header "Pods-dessertReactNativeApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
